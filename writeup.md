@@ -31,7 +31,7 @@ https://github.com/mattyoung-2
 
 **What aspect of AI are you most excited to learn about this year? Explain why.**
 
-I am most excited to learn about how AI processes information like no human can.
+I am most excited to learn about how AI processes information like no human can because it seems to be that AI is taking over tehnology nowadays. I also am interested in how AI can do deep fakes. 
 
 ---
 
